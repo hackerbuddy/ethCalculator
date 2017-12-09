@@ -19,7 +19,7 @@
     
 <body>
 
-<h1> Little ETH Calulator </h1>
+<h1> Little ETH Calculator </h1>
         
 <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>">
 Amount USD paid (NO FEES): <input type= "text" name="USDnoFees"><br>
